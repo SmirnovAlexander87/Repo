@@ -31,3 +31,5 @@
 ## Вывод
 
 Лучшей моделью стала LGBMClassifier с AUC-ROC выше 0.85 на кросс-валидации, Accuracy на кросс-валидации 0.89, показатель AUC-ROC на тестовой выборке сильно не изменились. 
+
+## [КОД ПРОЕКТА](forecasting_customer_outflow_telecom_project)
